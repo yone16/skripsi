@@ -1,0 +1,22 @@
+**PHP Version 7.4**
+
+
+**Login Details** 
+
+Username: admin
+Password: admin
+
+
+jangan lupa setting route url nya di
+
+application/config/config.php
+
+pada bagian ini
+
+$config['base_url'] = 'http://localhost/sistemku/';
+
+ubah misal :
+
+$config['base_url'] = 'http://localhost/aplikasiku/';
+
+
